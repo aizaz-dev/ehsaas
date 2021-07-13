@@ -143,7 +143,7 @@ function Form() {
         }}
       >
         <Typography variant="h5" Wrap>
-          Students Who Applied For Ehsaas Scholarship Must Fill This Form
+          Students Who Applied For Ehsaas Scholarship Must Fill This Form.
         </Typography>
       </div>
       <form className={classes.root} noValidate autoComplete="off">
